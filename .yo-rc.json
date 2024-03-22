@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "20.11.1",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.18.2",
+    "libraryName": "proyecto",
+    "libraryId": "1e5c38ad-005d-4b02-829b-5cc8174fbc93",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "proyecto",
+    "solutionShortDescription": "proyecto description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "library"
+  }
+}

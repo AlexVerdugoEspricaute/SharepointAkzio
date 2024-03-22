@@ -1,0 +1,9 @@
+{
+  "id": "08525d86-6a9e-493c-8ab6-3a0ed9f8b55d",
+  "alias": "AkziodocumentosLibrary",
+  "componentType": "Library",
+
+  // The "*" signifies that the version should be taken from the package.json
+  "version": "*",
+  "manifestVersion": 2
+}
